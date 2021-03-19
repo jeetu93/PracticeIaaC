@@ -1,4 +1,4 @@
-this scripts is used in production network for nso bpa reporting purpose after UAT completion to address customer issue while provisioning mols l2 and l3 services.
+this sample scripts i created to take reference while developing real production network reporting script that was used to fullfill the production network nso bpa reporting purpose after UAT completion to address customer issue while provisioning mpls l2 and l3 services.
 
 
 
